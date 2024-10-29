@@ -14,12 +14,12 @@ This is a simple e-commerce product page built using **React**, **JavaScript**, 
 
 ## Project Overview
 
-This project simulates an e-commerce product page where users can:
+This project simulates an e-commerce application where users can:
 - View products with details like name, price, and image.
 - Add items to thier shopping cart.
 - Update the quantity of items in the cart.
   
-However, the project contains **intentional bugs** that provide a good learning opportunity for new developers. Debugging these will hlep you improve your problem-solving, DOM manipulation, and responsive desgn skills.
+However, the project contains **intentional bugs** that provide a good learning opportunity for new developers. Debugging these will hlep you improve your problem-solving, DOM manipulation, and responsive design skills.
 
 ---
 
